@@ -17,7 +17,7 @@ app.add_middleware(
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"  # Never share publicly
+    api_key="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"  # Never share publicly
 )
 
 chat_log = [{
